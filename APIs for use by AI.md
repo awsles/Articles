@@ -25,14 +25,14 @@ In Summer Yue’s case, an agentic-ready “Delete Email” API could have force
 ## What makes an API AI-ready?
 
 Key elements that come to mind include:
-* *Independent AI Credentials* – The AI agents use a credential that can only access the approved agentic API interfaces. This prevents an AI from discovering another API and attempting to use those same credentials therein.
-* *Fine-Grained Authorization* – The APIs should enforce fine-grained authorization, not only for the AI agent, but also for the operations on whose behalf it is operating (referred to as “transitive” or “delegated” authorization). The authorization should match intent.
-* *Human Approvals* – Sensitive and bulk operations might require human approval to complete – possibly out-of-band to the normal agentic flow.
-* *Transactional / Roll-back* – Operations performed by AI should have an “undo” capability (where feasible) so that unintended consequences can be quickly remediated.
-* *Sensitive Data Filtering* – AI-ready APIs can potentially inspect and prevent data inadvertently passed into AI for sensitive and personal information (i.e., subject to GDPR, CCPA, HIPAA, etc.).
-* *API-Tuning* – The way in which agentic AI interacts with APIs is often different than how a traditional application interacts. AI-ready APIs can be optimized for agentic AI performance.
-* *Operational Limits* – AI-ready APIs can impose rate limits and other measures to reduce blast-radius.
-* *Comprehensive Logging* – AI-ready APIs can implement more detailed logging and auditing for compliance purposes.
+* **Independent AI Credentials** – The AI agents use a credential that can only access the approved agentic API interfaces. This prevents an AI from discovering another API and attempting to use those same credentials therein.
+* **Fine-Grained Authorization** – The APIs should enforce fine-grained authorization, not only for the AI agent, but also for the operations on whose behalf it is operating (referred to as “transitive” or “delegated” authorization). The authorization should match intent.
+* **Human Approvals** – Sensitive and bulk operations might require human approval to complete – possibly out-of-band to the normal agentic flow.
+* **Transactional / Roll-back** – Operations performed by AI should have an “undo” capability (where feasible) so that unintended consequences can be quickly remediated.
+* **Sensitive Data Filtering** – AI-ready APIs can potentially inspect and prevent data inadvertently passed into AI for sensitive and personal information (i.e., subject to GDPR, CCPA, HIPAA, etc.).
+* **API-Tuning** – The way in which agentic AI interacts with APIs is often different than how a traditional application interacts. AI-ready APIs can be optimized for agentic AI performance.
+* **Operational Limits** – AI-ready APIs can impose rate limits and other measures to reduce blast-radius.
+* **Comprehensive Logging** – AI-ready APIs can implement more detailed logging and auditing for compliance purposes.
 These are just some of the measures that can be used. What others come to mind? 
  
 Not every API needs to be rewritten. Low risk and non-destructive APIs may be suitable as-is, or with only slight modification for AI performance.
