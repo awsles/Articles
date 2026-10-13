@@ -1,5 +1,11 @@
 # APIs for use by AI
 
+## Executive Summary
+
+Traditional application programming interfaces are poorly suited for autonomous artificial intelligence agents, which frequently lead to excessive agency and severe operational errors due to unpredictable runtime decisions. Relying solely on textual prompts for security is inadequate because artificial intelligence systems can easily lose critical instructions or encounter malicious input during execution. To mitigate these risks, organizations must adopt purpose-built agentic interfaces that function as specialized safety layers between artificial intelligence models and core backend services. These advanced frameworks ensure secure operations through fine-grained authorization, mandatory human approvals, and built-in transactional roll-back capabilities to reverse unintended actions. Additionally, employing anAPI gateway potentially allows enterprises to enforce strict compliance policies, restrict risky behaviors, and protect sensitive data from autonomous system failures.
+
+---
+
 ## Introduction
 
 APIs were built for application development... Now AI agents are calling them ad hoc. What could possibly go wrong? Just because an AI agent can call an API doesn't mean it should. In this article, I explore why the agentic era requires a new security and governance paradigm for APIs accessed by AI.
