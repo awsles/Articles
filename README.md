@@ -1,7 +1,8 @@
 # Articles
 
 ![](assets/ExecutiveCommandCenterBanner.png)
-Selected articles written by Les W.
+Selected articles by Les W.
+
 
 |**Article Title**|**Github**|**Published Links**|
 |---|---|---|
@@ -16,7 +17,7 @@ Selected articles written by Les W.
 | **Azure or AWS: Which is more secure?** | - | (Medium)[https://cloudadvisor.medium.com/azure-or-aws-which-is-more-secure-c8d0a24f1c2d] |
 
 
-Additional articles also appear at https://cloudadvisor.medium.com/.
+Articles are published on [LinkedIn](https://www.linkedin.com/in/leswaters/) (scroll down to Activity and click Articles)  and [Medium](https://cloudadvisor.medium.com/).
 
 
 ### Upcoming Articles
