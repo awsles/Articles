@@ -1,10 +1,10 @@
 # Articles
-Various articles written by Les W.
+Selected articles written by Les W.
 
 |**Article Title**|**Github**|**Published Links**|
 |---|---|---|
 | **AI agents with autonomous access to APIs... *What could possibly go wrong?*** | - | [LinkedIn](https://www.linkedin.com/pulse/apis-were-built-applications-now-ai-agents-calling-them-les-waters-c52ae/)|
-| **Principles, Policies,  Standards, Guidelines, and Procedures** | - | [LinkedIn](https://cloudadvisor.medium.com/principles-policies-standards-guidelines-and-procedures-whats-the-difference-6e7a406c279) [LinkedIn Version](https://www.linkedin.com/pulse/principles-policies-standards-lester-waters/?trackingId=zRPnVApNSJiLLNdG9W0Wkw%3D%3D]eifjcbfeutfikdffd)| 
+| **Principles, Policies,  Standards, Guidelines, and Procedures** | - | [Medium](https://cloudadvisor.medium.com/principles-policies-standards-guidelines-and-procedures-whats-the-difference-6e7a406c279)  [LinkedIn](https://www.linkedin.com/pulse/principles-policies-standards-lester-waters/?trackingId=zRPnVApNSJiLLNdG9W0Wkw%3D%3D]eifjcbfeutfikdffd)| 
 | **Cloud Role Segregation** | - | [Medium](https://cloudadvisor.medium.com/aws-and-azure-roles-9e93b9f8b876)|
 | **Enumerating AWS Resources** (the challenges) | - | [Medium](https://cloudadvisor.medium.com/enumerating-aws-resources-eab300b1fc5d)|
 | **Who created that VM?** - Automatically tag that creator | - | [Medium](https://cloudadvisor.medium.com/who-created-that-vm-a36f76ffcb61) |
@@ -14,7 +14,7 @@ Various articles written by Les W.
 Additional articles also appear at https://cloudadvisor.medium.com/.
 
 
-## Upcoming Articles
+### Upcoming Articles
 Upcoming articles include:
 
 * AWS and Azure Permissions -- Complete enumeration of Permissions

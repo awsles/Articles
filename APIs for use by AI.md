@@ -1,6 +1,8 @@
 # APIs for use by AI
 AI agents with autonomous access to APIs... *What could possibly go wrong?*
 
+![Infographic for making APIs AI-ready](assets/AI-Ready%20API%20Guardrails%20Infographic%20Horizontal.png)
+
 This article appears on LinkedIn: [post](https://www.linkedin.com/feed/update/urn:li:activity:7515858182800568321/) and [article](https://www.linkedin.com/pulse/apis-were-built-applications-now-ai-agents-calling-them-les-waters-c52ae/)
 
 
