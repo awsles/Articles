@@ -1,6 +1,7 @@
 # Articles
 
 ![](assets/LinkedInBanner.png)
+
 Selected articles by Les W.
 
 
@@ -14,7 +15,7 @@ Selected articles by Les W.
 | **Who created that VM?** - Automatically tag that creator | - | [Medium](https://cloudadvisor.medium.com/who-created-that-vm-a36f76ffcb61) |
 | **Getting Started with CyberRisk Management** (basics) | - | [Medium](https://cloudadvisor.medium.com/getting-started-with-cyber-risk-management-62425c0713f3)|
 | **FinOps: Cloud Financials** | - | [Medium](https://cloudadvisor.medium.com/finops-cloud-financial-operations-380d97828ed4_) |
-| **Azure or AWS: Which is more secure?** | - | (Medium)[https://cloudadvisor.medium.com/azure-or-aws-which-is-more-secure-c8d0a24f1c2d] |
+| **Azure or AWS: Which is more secure?** | - | [Medium](https://cloudadvisor.medium.com/azure-or-aws-which-is-more-secure-c8d0a24f1c2d) |
 
 
 Articles are published on [LinkedIn](https://www.linkedin.com/in/leswaters/) (scroll down to Activity and click Articles)  and [Medium](https://cloudadvisor.medium.com/).
