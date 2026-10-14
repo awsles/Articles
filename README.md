@@ -1,6 +1,6 @@
 # Articles
 
-![](assets/ExecutiveCommandCenterBanner.png)
+![](assets/LinkedInBanner.png)
 Selected articles by Les W.
 
 
