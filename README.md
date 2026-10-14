@@ -2,7 +2,7 @@
 
 ![](assets/LinkedInBanner.png)
 
-Selected articles by Les W.
+Selected articles by Les:
 
 
 |**Article Title**|**Github**|**Published Links**|
