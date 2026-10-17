@@ -2,12 +2,13 @@
 
 ![](assets/LinkedInBanner.png)
 
-Selected articles by Les:
+Selected articles and projects by Les:
 
 
 |**Article Title**|**Github**|**Published Links**|
 |---|---|---|
 | **AI agents with autonomous access to APIs... *What could possibly go wrong?*** | [link](https://github.com/awsles/Articles/blob/main/APIs%20for%20use%20by%20AI.md) | [LinkedIn](https://www.linkedin.com/pulse/apis-were-built-applications-now-ai-agents-calling-them-les-waters-c52ae/)|
+| **UNSUBSCRIBE button add-in for Outlook** | [GitHub](https://awsles.github.io/unsubscribe/) | [LinkedIn](https://lnkd.in/p/ejw-xTic) |
 | **Principles, Policies,  Standards, Guidelines, and Procedures** | [link](https://github.com/awsles/Articles/blob/main/Principles-Policies-Standards.md) | [Medium](https://cloudadvisor.medium.com/principles-policies-standards-guidelines-and-procedures-whats-the-difference-6e7a406c279)  [LinkedIn](https://www.linkedin.com/pulse/principles-policies-standards-lester-waters/?trackingId=zRPnVApNSJiLLNdG9W0Wkw%3D%3D]eifjcbfeutfikdffd)| 
 | **Exploring Azure Resource Graph with Kusto** | - | [Medium](https://cloudadvisor.medium.com/exploring-azure-resource-graph-with-kusto-edb6859c0dbc) |
 | **Cloud Role Segregation** | - | [Medium](https://cloudadvisor.medium.com/aws-and-azure-roles-9e93b9f8b876)|
